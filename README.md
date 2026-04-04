@@ -10,6 +10,6 @@ dynamically over time. Detecting such deepfakes requires precise temporal and sp
 
 <img src='./Images/Model.png' width=900>
 
-## Code will be available soon
+## Code will be available soon...
 
 
